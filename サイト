@@ -1,0 +1,8 @@
+・「CausalImpactによる施策効果推定」--https://qiita.com/iitachi_tdse/items/24119464b73992cd4abc
+　　causal impactの推定結果の検証について少しだけ言及
+  
+・「Hyperparameter Tuning for Time Series Causal Impact Analysis in R」
+　　--https://medium.com/grabngoinfo/hyperparameter-tuning-for-time-series-causal-impact-analysis-in-r-234b3d3cb25d
+  ハイパーパラメータの選定方法について；R言語で書かれているが、pythonで書き換え可能
+  
+  
